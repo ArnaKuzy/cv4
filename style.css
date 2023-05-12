@@ -1,0 +1,19 @@
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p a {
+    color: brown;
+}
+
+.police-franklin {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#en-tete, #en-tete a {
+    color: darkgreen;
+}
+
+a:hover {
+    text-decoration: none;
+}
